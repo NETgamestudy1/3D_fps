@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638108537096106747
-    m_Hash: 1421907397
+      ticks: 638111750777576841
+    m_Hash: 1358865322
   m_LockFileStatus:
     m_FilePath: C:/Users/1000c/3D_fps/3D_fps/FPS_Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638108537644102567
-    m_Hash: 2494348924
+      ticks: 638111750777667711
+    m_Hash: 3155937648
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -483,6 +483,70 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.2.5
+    nextVersion: 
+- packageId: com.unity.nuget.mono-cecil@1.10.2
+  testable: 0
+  isDirectDependency: 1
+  version: 1.10.2
+  source: 1
+  resolvedPath: C:\Users\1000c\3D_fps\3D_fps\FPS_Project\Library\PackageCache\com.unity.nuget.mono-cecil@1.10.2
+  assetPath: Packages/com.unity.nuget.mono-cecil
+  name: com.unity.nuget.mono-cecil
+  displayName: Mono Cecil
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'The mono cecil library from https://www.nuget.org/packages/Mono.Cecil/
+
+
+    This
+    package is intended for internal Unity use only. Most Unity users will be better
+    suite using the existing community tooling.
+
+    To avoid assembly clashes, please
+    use this package if you intend to use Mono.Cecil.'
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 0.1.6-preview.2
+    - 1.0.0-preview.1
+    - 1.10.0-preview.1
+    - 1.10.1-preview.1
+    - 1.10.1
+    - 1.10.2
+    - 1.11.4
+    compatible:
+    - 1.10.1
+    - 1.10.2
+    - 1.11.4
+    verified: 1.10.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637695695890000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.mono-cecil.git
+    revision: 055a3837b0d05ce171c73a20741d59bc337662ed
+    path: 
+  unityLifecycle:
+    version: 1.10.1
     nextVersion: 
 - packageId: com.unity.test-framework@1.1.31
   testable: 0
@@ -2991,8 +3055,10 @@ m_ResolvedPackages:
     - 1.1.0-pre.2
     - 1.1.0
     - 1.1.1
+    - 1.2.2
     compatible:
     - 1.1.1
+    - 1.2.2
     verified: 1.1.1
   dependencies: []
   resolvedDependencies: []
@@ -3156,9 +3222,11 @@ m_ResolvedPackages:
     - 1.5.2
     - 1.6.0
     - 1.7.0
+    - 1.7.1
     compatible:
     - 1.7.0
-    verified: 1.7.0
+    - 1.7.1
+    verified: 1.7.1
   dependencies:
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
