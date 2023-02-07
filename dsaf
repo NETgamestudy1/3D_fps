@@ -1,0 +1,54 @@
+[33mcommit f05891846fa3557001b37814acd264a6643b0062[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 65c54c53 41978b39
+Author: JINGINI <122732187+JINGINI@users.noreply.github.com>
+Date:   Tue Feb 7 10:59:29 2023 +0900
+
+    Merge branch 'main' of https://github.com/NETgamestudy1/3D_fps
+
+[33mcommit 41978b396998573b05f595f93510297ca9439f1d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 1000chw <1000chw@naver.com>
+Date:   Sun Feb 5 16:50:40 2023 +0900
+
+    pothon fusion update
+
+[33mcommit 2f6a5acb93490c75dadd4dee7ba2bdcc7f6b0ef3[m
+Author: 1000chw <1000chw@naver.com>
+Date:   Sun Feb 5 16:49:19 2023 +0900
+
+    change .gitignore
+
+[33mcommit f67404faebac868189b48a828157d771e2e3069b[m
+Author: 1000chw <1000chw@naver.com>
+Date:   Sun Feb 5 16:47:33 2023 +0900
+
+    change .gitignore
+
+[33mcommit 1b7b922a960f9069757d6c0274f7a68579ff39fc[m
+Author: 1000chw <1000chw@naver.com>
+Date:   Sun Feb 5 16:45:11 2023 +0900
+
+    Make .gitignore
+
+[33mcommit 2d8b72a466f495453e25719abb9ff503d04b2592[m
+Author: 1000chw <1000chw@naver.com>
+Date:   Sun Feb 5 16:34:54 2023 +0900
+
+    "Make .gitignore"
+
+[33mcommit 65c54c53ebdbaca4f8a0ab0ce18b1063822c96c9[m
+Author: JINGINI <122732187+JINGINI@users.noreply.github.com>
+Date:   Sun Feb 5 12:28:11 2023 +0900
+
+    asdf
+
+[33mcommit 10b61e3bec43004650227773006576866646313e[m
+Author: 1000chw <1000chw@naver.com>
+Date:   Wed Feb 1 22:15:12 2023 +0900
+
+    "Make Project"
+
+[33mcommit 05bfea8ab2cd3ce569fa32bf5ff4d8d5c37b0577[m
+Author: NETgamestudy1 <124161726+NETgamestudy1@users.noreply.github.com>
+Date:   Wed Feb 1 22:00:32 2023 +0900
+
+    Initial commit

@@ -1,0 +1,6 @@
+#.gitignore
+FPS_Project/[Ll]ibrary/
+FPS_Project/[Tt]emp/
+FPS_Project/[Oo]bj/
+FPS_Project/[Ll]ogs/
+
