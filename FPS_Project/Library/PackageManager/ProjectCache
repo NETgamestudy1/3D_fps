@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638113307415813522
     m_Hash: 3487123693
+=======
+      ticks: 638111750777576841
+    m_Hash: 1358865322
+>>>>>>> 41978b396998573b05f595f93510297ca9439f1d
   m_LockFileStatus:
     m_FilePath: C:/Users/jingi/Desktop/got/3D_fps/FPS_Project/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 638113307415813522
     m_Hash: 2167131700
+=======
+      ticks: 638111750777667711
+    m_Hash: 3155937648
+>>>>>>> 41978b396998573b05f595f93510297ca9439f1d
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -489,7 +499,11 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.10.2
   source: 1
+<<<<<<< HEAD
   resolvedPath: C:\Users\jingi\Desktop\got\3D_fps\FPS_Project\Library\PackageCache\com.unity.nuget.mono-cecil@1.10.2
+=======
+  resolvedPath: C:\Users\1000c\3D_fps\3D_fps\FPS_Project\Library\PackageCache\com.unity.nuget.mono-cecil@1.10.2
+>>>>>>> 41978b396998573b05f595f93510297ca9439f1d
   assetPath: Packages/com.unity.nuget.mono-cecil
   name: com.unity.nuget.mono-cecil
   displayName: Mono Cecil

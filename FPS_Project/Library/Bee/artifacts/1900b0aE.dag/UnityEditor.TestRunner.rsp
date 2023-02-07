@@ -324,11 +324,19 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Transactions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.17f1/Editor/Data/UnityReferenceAssemblies/unity-4.8-api/System.Xml.Linq.dll"
+<<<<<<< HEAD
 -r:"C:/Users/jingi/Desktop/got/3D_fps/FPS_Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"C:/Users/jingi/Desktop/got/3D_fps/FPS_Project/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.dll"
 -r:"C:/Users/jingi/Desktop/got/3D_fps/FPS_Project/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Mdb.dll"
 -r:"C:/Users/jingi/Desktop/got/3D_fps/FPS_Project/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Pdb.dll"
 -r:"C:/Users/jingi/Desktop/got/3D_fps/FPS_Project/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Rocks.dll"
+=======
+-r:"C:/Users/1000c/3D_fps/3D_fps/FPS_Project/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"C:/Users/1000c/3D_fps/3D_fps/FPS_Project/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.dll"
+-r:"C:/Users/1000c/3D_fps/3D_fps/FPS_Project/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Mdb.dll"
+-r:"C:/Users/1000c/3D_fps/3D_fps/FPS_Project/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Pdb.dll"
+-r:"C:/Users/1000c/3D_fps/3D_fps/FPS_Project/Library/PackageCache/com.unity.nuget.mono-cecil@1.10.2/Mono.Cecil.Rocks.dll"
+>>>>>>> 41978b396998573b05f595f93510297ca9439f1d
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.TestRunner.ref.dll"
 "Library/PackageCache/com.unity.test-framework@1.1.31/UnityEditor.TestRunner/Api/Analytics/AnalyticsReporter.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.31/UnityEditor.TestRunner/Api/Analytics/AnalyticsTestCallback.cs"
